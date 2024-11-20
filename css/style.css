@@ -131,8 +131,7 @@ body{
 .welcome-section{
     overflow: auto;
     width: 100%;
-    height: 100vh;
-    
+    height: 100vh;  
 }
 
 .welcome1{
@@ -239,8 +238,10 @@ body{
 .feat-section{
     width: 100%;
     height: 100vh;
-    background-color: rgb(242, 242, 246);
+    /* background-color: rgb(242, 242, 246); */
     padding-top: 5px;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
 
 }
 
@@ -351,6 +352,8 @@ body{
 .offer-section{
     width: 100%;
     height: 100vh;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
 }
 
 .offer-head{
@@ -434,6 +437,8 @@ body{
     width: 100%;
     height: 100vh;
     overflow: auto;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
 }
  
 .why1{
@@ -560,6 +565,8 @@ body{
     width: 100%;
     height: 100vh;
     padding-top: 100px;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
 }
 
 .pricing-title{
@@ -741,6 +748,8 @@ body{
 .sec-team{
     width: 100%;
     height: 100vh;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
 }
 
 .team-title{
