@@ -132,6 +132,10 @@ body{
     overflow: auto;
     width: 100%;
     height: 100vh;  
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: 2;
 }
 
 .welcome1{
@@ -861,6 +865,10 @@ body{
 .news-sec{
     width: 100%;
     height: 100vh;
+    background-image: url(../image/background\ all.jpg);
+    background-size: cover;
+    position: relative;
+    z-index: 2;
 }
 
 .news-title{
